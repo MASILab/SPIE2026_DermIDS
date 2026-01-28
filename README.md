@@ -6,7 +6,7 @@ SPIE Medical Imaging 2026
 
 Paper #: 13930-29
 
-Feb 19, 2026
+February 19, 2026
 
 Vancouver, Canada
 
