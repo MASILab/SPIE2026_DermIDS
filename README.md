@@ -8,7 +8,7 @@ Paper #: 13930-29
 
 February 19, 2026
 
-Vancouver, Canada
+Vancouver, BC, Canada
 
 
 
