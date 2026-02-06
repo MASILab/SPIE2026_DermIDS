@@ -22,3 +22,19 @@ Vancouver, BC, Canada
 * Supported modalities include clinical photography, dermoscopy, general photography, reflectance confocal microscopy, and surface 3D imaging.
 
   
+## DermIDS Validator
+
+To support compliance with the DermIDS format, the DermIDS Validator verifies directory structures, file types, and naming conventions for each dataset. This includes checking dataset, subject, session, and modality folder names and confirming that all PNG, JSON, and ICC files follow the standardized sub-<subject_number>_ses-<session_number>_mod-<modality>_img-<image_number> naming convention. Unknown file types or misnamed folders and files are flagged as errors.
+
+Usage:
+* Download the example dataset in DermIDS format (dataset_000) to a new project directory folder (/path/to/project_directory/dataset_000) and DermIDS Validator (/path/to/DermIDS_Validator.sh)
+
+* In terminal, run the DermIDS Validator across the project directory folder:
+
+bash DermIDS_Validator.sh /path/to/project_directory
+
+* Verify that the DermIDS Validator produces the following outputs:
+
+dataset: dataset_000, sub_folders: 60, modalities: "ds", pngs: 60, jsons: 60, icc: 0, total files: 120
+
+DermIDS structure validation complete for /path/to/project_directory
