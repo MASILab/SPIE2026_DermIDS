@@ -12,7 +12,7 @@ Vancouver, BC, Canada
 
 
 
-## DermIDS Schema
+## DermIDS Structure
 
 ![The Dermatology Imaging Data Structure (DermIDS)](DermIDS_schema/DermIDS_schema.png)
 
