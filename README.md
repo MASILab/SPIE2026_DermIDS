@@ -2,14 +2,6 @@
 
 ## DermIDS: Dermatology imaging data structure for scalable and interoperable AI systems
 
-SPIE Medical Imaging 2026
-
-Paper #: 13930-29
-
-February 19, 2026
-
-Vancouver, BC, Canada
-
 Cho C, McNeil AJ, Jiang B, Saunders AM, Rudravaram G, Liu Y, Moyer D, Dawant BM, Landman BA, Tkaczyk ER. DermIDS: dermatology imaging data structure for scalable and interoperable AI systems. Proc SPIE Medical Imaging 2026: Imaging Informatics. 2026;13930:139300V. doi:10.1117/12.3085989
 
 
